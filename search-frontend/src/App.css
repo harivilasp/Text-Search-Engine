@@ -1,0 +1,30 @@
+.logo-header {
+  color: white;
+  font-size: x-large;
+  font-weight: 700;
+  text-align: center;
+}
+
+.search-result {
+  border-bottom: 1px solid #4d7d9a8c;
+  padding: 5px 0;
+}
+
+.pagination {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.search-item {
+  color: #02277d;
+}
+
+.search-result .search-url {
+  color: green;
+  font-style: italic;
+  font-size: 11px;
+}
+
+.search-highlight {
+  font-size: 11px;
+}
